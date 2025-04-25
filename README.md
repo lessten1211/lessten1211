@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+5.6!;Welcome+to+my+GitHub+profile!&center=true&size=30">
 </div>
 
-<h3 align="center">🚀 26届本科学生 | 前端开发实习生 @ 快手 | AI 爱好者</h3>
+<h3 align="center">🚀 26届本科学生 | 前端开发实习生 @ByteDance | AI 爱好者</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lessten1211&label=Profile%20views&color=0e75b6&style=flat" alt="lessten1211" />
@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  🏀 篮球 | 🏃‍♂️ 跑步 | 🥾 徒步 | 🏔️ 爬山
+  🏃‍♂️ 跑步 | 🏀  篮球 | 🥾 徒步 | 🏔️ 爬山
   
 </div>
 
