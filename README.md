@@ -46,11 +46,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lessten1211&theme=radical" alt="5.6's GitHub streak" />
-</p>
-
-<h2 align="center">🔗 个人主页</h2>
+<h2 align="center">🔗 个人Blog</h2>
 
 <p align="center">
   <a href="https://github.com/lessten1211" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
