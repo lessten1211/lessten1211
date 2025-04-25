@@ -3,10 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+5.6!;Welcome+to+my+GitHub+profile!&center=true&size=30">
 </div>
 
-<h3 align="center">🚀 26届本科学生 | 前端开发实习生 @ByteDance | AI 爱好者</h3>
+<h3 align="center">🚀 学生 | 前端开发 @ByteDance | AI 爱好者</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lessten1211&label=Profile%20views&color=0e75b6&style=flat" alt="lessten1211" />
+</p>
+
+<h2 align="center">📊 GitHub 统计</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lessten1211&show_icons=true&theme=radical" alt="5.6's GitHub stats" />
 </p>
 
 <div align="center">
@@ -17,20 +23,27 @@
 
 <h2 align="center">🛠️ 技能</h2>
 
+<h3 align="center">🌐 前端开发</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-<h2 align="center">📊 GitHub 统计</h2>
-
+<h3 align="center">⚙️ 后端开发</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lessten1211&show_icons=true&theme=radical" alt="5.6's GitHub stats" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
+<h3 align="center">🤖 AI 与数据科学</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 <p align="center">
