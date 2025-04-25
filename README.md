@@ -1,6 +1,6 @@
-<h1>5.6 个人小屋🏠</h1>
+<h1>5.6's 个人小屋🏠</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+5.6!;Welcome+to+my+GitHub+profile!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+5.6%21;Welcome+to+my+GitHub+profile%21;Student+%7C+Frontend+Developer+%40ByteDance;AI+Enthusiast&center=true&size=30&width=800&vCenter=true&color=007ACC&vibrate=0.5" alt="Typing SVG">
 </div>
 
 <h3 align="center">🚀 学生 | 前端开发 @ByteDance | AI 爱好者</h3>
@@ -54,18 +54,20 @@
   <a href="https://leetcode.cn/u/aeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeae/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <h2 align="center">📫 联系我</h2>
 
 <p align="center">
-  <a href="mailto:Lessten1211@126.com">
-    <img src="https://img.shields.io/badge/Email：  Lessten1211@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
-    <span>Lessten1211@126.com</span>
+  <a href="mailto:Lessten1211@126.com" style="text-decoration: none;">
+    <i class="fas fa-envelope" style="color: #D14836; font-size: 24px; vertical-align: middle;"></i>
+    <span style="font-size: 18px; margin-left: 8px; color: #333;">📫 Email：Lessten1211@126.com</span>
   </a>
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/WeChat：  Chasing_27-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" style="vertical-align: middle;" />
-    <span>Chasing_27</span>
+  <a href="#" style="text-decoration: none;">
+    <i class="fab fa-weixin" style="color: #07C160; font-size: 24px; vertical-align: middle;"></i>
+    <span style="font-size: 18px; margin-left: 8px; color: #333;">💬 微信：Chasing_27</span>
   </a>
 </p>
