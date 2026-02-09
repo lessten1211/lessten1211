@@ -68,6 +68,6 @@
 <p align="center">
   <a href="#" style="text-decoration: none;">
     <i class="fab fa-weixin" style="color: #07C160; font-size: 24px; vertical-align: middle;"></i>
-    <span style="font-size: 18px; margin-left: 8px; color: #333;">💬 微信：Chasing_27</span>
+    <span style="font-size: 18px; margin-left: 8px; color: #333;">💬 微信：Lessten56</span>
   </a>
 </p>
