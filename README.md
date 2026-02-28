@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+5.6%21;Welcome+to+my+GitHub+profile%21;Student+%7C+Frontend+Developer+%40ByteDance;AI+Enthusiast&center=true&size=30&width=800&vCenter=true&color=007ACC&vibrate=0.5" alt="Typing SVG">
 </div>
 
-<h3 align="center">🚀 学生 | 前端开发 @ByteDance | AI 爱好者</h3>
+<h3 align="center">🚀 AI ? AI全栈开发 : 前端开发 @ByteDance | AI 爱好者</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lessten1211&label=Profile%20views&color=0e75b6&style=flat" alt="lessten1211" />
