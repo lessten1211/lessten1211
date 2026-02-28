@@ -15,12 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lessten1211&show_icons=true&theme=radical" alt="5.6's GitHub stats" />
 </p>
 
-<div align="center">
-  
-  🏃‍♂️ 跑步 | 🏀  篮球 | 🥾 徒步 | 🏔️ 爬山
-  
-</div>
-
 <h2 align="center">🛠️ 技能</h2>
 
 <h3 align="center">🌐 前端开发</h3>
