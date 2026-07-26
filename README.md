@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="5.6 — Class of 2026, formerly at Kuaishou and ByteDance, now at Xiaohongshu" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="5.6 — Frontend, AI Full-stack and PE Engineer" />
 </p>
 
 <p align="center">
@@ -14,8 +14,9 @@
 
 ## Hi, I'm 5.6 👋
 
-一名 **2026 届开发者**，目前在 **小红书** 工作。<br>
-曾在 **快手**、**字节跳动** 实习，持续在真实业务中打磨前端工程、跨端体验和开发效率。
+我将在 **2026 年毕业**，目前在 **小红书** 工作，此前曾在 **快手**、**字节跳动** 实习。
+
+现在主要是 **前端工程师 / AI 全栈工程师 / PE 工程师**，持续在真实业务中打磨产品体验、工程质量与开发效率。
 
 我喜欢把复杂问题拆成清晰、可靠、好用的产品，也在探索 AI 如何真正进入研发工作流，而不只是停留在 Demo。
 
@@ -23,10 +24,10 @@
 
 | Stage | Experience | What I care about |
 | :--- | :--- | :--- |
-| **Now** | 🔴 小红书 · Work | 产品体验、工程质量、规模化协作 |
-| **Previously** | ⚫ 字节跳动 · Internship | 前端工程、复杂业务交付 |
-| **Previously** | 🟠 快手 · Internship | 业务实践、快速学习与迭代 |
-| **Class of 2026** | 🎓 Graduate | 保持好奇，持续构建 |
+| **Now** | <img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="20" alt="小红书" /> **小红书 · Work** | 产品体验、工程质量、规模化协作 |
+| **Previously** | <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" width="20" alt="字节跳动" /> **字节跳动 · Internship** | 前端工程、复杂业务交付 |
+| **Previously** | <img src="https://cdn.simpleicons.org/kuaishou/FF4906" width="20" alt="快手" /> **快手 · Internship** | 业务实践、快速学习与迭代 |
+| **Graduating in 2026** | 🎓 **Graduate** | 保持好奇，持续构建 |
 
 ## What I build
 
